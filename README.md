@@ -1,6 +1,6 @@
-# Excel-VBA (Excel 2010)
+# Excel-VBA (Excel 2010+)
 
-The `excel-vba` repository is a collection of handy Excel 2010 VBA modules for chart object manipulation, textfile handling (import, search, export) and more. The usage of the VBA routines and functions contained is shown in the demo sheets of the Excel 2010 `excel-vba.xlsm` file. There are now dependencies to other VBA projects, allowing you to use only the features you need.
+The `excel-vba` repository is a collection of handy Excel 2010+ VBA modules for chart object manipulation, textfile handling (import, search, export) and more. The usage of the VBA routines and functions contained is shown in the demo sheets of the Excel 2010 `excel-vba.xlsm` file. There are no dependencies to other VBA projects, allowing you to use only the features you need.
 
 ----------------------------------------
 ## Package overview
@@ -15,7 +15,7 @@ The `excel-vba` repository is a collection of handy Excel 2010 VBA modules for c
 - [xSearch](vba/wksXSearch.cls): Demo of the basXSearch routines
 
 ## Download
-You can download the latest development branch of the `excel-vba` package using GitHubs [ZIP button](https://github.com/cwsoft/excel-vba/archive/master.zip).
+You can download the latest development branch of the `excel-vba` package using GitHubs [ZIP button](https://github.com/cwsoft/excel-vba/archive/main.zip).
 
 ## License
 The `excel-vba` package is licensed under the [GNU General Public License 3.0](./LICENSE).
